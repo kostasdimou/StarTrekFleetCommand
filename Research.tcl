@@ -33,7 +33,7 @@ array set RESEARCH {
                 PARSTEEL 688K
                 DILITHIUM 168.3K
                 START {1d 22h}
-                INSTANT {LATINUM 831}
+                INSTANT 831
             }
         }
         {Hideout Defenses} {
